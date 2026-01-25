@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Andreas Johansson
 
-<!--
-**andiaz/andiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX Designer and Developer exploring the intersection of design, code, and AI.
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/badge/Blog-000?style=flat&logo=astro&logoColor=white)](https://andreasjohanssonux.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=safari&logoColor=white)](https://andreasjohanssonux.netlify.app/projects/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreasjohanssonux/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [Chroma Type Studio](https://github.com/andiaz/chroma-type-studio)
+
+An all-in-one workspace for creating accessible color palettes, typography scales, and WCAG-compliant design systems.
+
+### [Astro Blog](https://github.com/andiaz/astro-blog)
+
+Personal blog where I write about UX and AI. Built with Astro, Tailwind, and MDX.
+
+### [Persona CMS](https://github.com/andiaz/persona-cms)
+
+Create user personas and export them as images. A tool for UX research and documentation.
+
+## Currently Learning
+
+- Deep diving into HTML & CSS fundamentals
+- Exploring Tailwind CSS
