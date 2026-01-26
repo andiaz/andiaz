@@ -12,6 +12,8 @@ UX Designer and Developer exploring the intersection of design, code, and AI.
 
 An all-in-one workspace for creating color palettes, typography scales, and design systems with built-in accessibility checking.
 
+[Try it live →](https://andiaz.github.io/chroma-type-studio/)
+
 ### 👤 [Persona Lab](https://github.com/andiaz/persona-lab)
 
 Create user personas and journey maps, then export them as images. A tool for UX research and documentation.
