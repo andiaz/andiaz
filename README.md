@@ -8,17 +8,17 @@ UX Designer and Developer exploring the intersection of design, code, and AI.
 
 ## Featured Projects
 
-### [Chroma Type Studio](https://github.com/andiaz/chroma-type-studio)
+### 🎨 [Chroma Type Studio](https://github.com/andiaz/chroma-type-studio)
 
-An all-in-one workspace for creating accessible color palettes, typography scales, and WCAG-compliant design systems.
+An all-in-one workspace for creating color palettes, typography scales, and design systems with built-in accessibility checking.
 
-### [Astro Blog](https://github.com/andiaz/astro-blog)
+### 👤 [Persona Lab](https://github.com/andiaz/persona-lab)
+
+Create user personas and journey maps, then export them as images. A tool for UX research and documentation.
+
+### ✍️ [Astro Blog](https://github.com/andiaz/astro-blog)
 
 Personal blog where I write about UX and AI. Built with Astro, Tailwind, and MDX.
-
-### [Persona CMS](https://github.com/andiaz/persona-cms)
-
-Create user personas and export them as images. A tool for UX research and documentation.
 
 ## Currently Learning
 
