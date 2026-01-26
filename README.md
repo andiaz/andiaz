@@ -14,7 +14,7 @@ An all-in-one workspace for creating color palettes, typography scales, and desi
 
 [Try it live →](https://andiaz.github.io/chroma-type-studio/)
 
-### 👤 [Persona Lab](https://github.com/andiaz/persona-lab)
+### 👤 [Persona Lab](https://github.com/andiaz/persona-cms)
 
 Create user personas and journey maps, then export them as images. A tool for UX research and documentation.
 
