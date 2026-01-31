@@ -18,6 +18,8 @@ An all-in-one workspace for creating color palettes, typography scales, and desi
 
 Create user personas and journey maps, then export them as images. A tool for UX research and documentation.
 
+[Try it live →](https://andiaz.github.io/persona-cms)
+
 ### ✍️ [Astro Blog](https://github.com/andiaz/astro-blog)
 
 Personal blog where I write about UX and AI. Built with Astro, Tailwind, and MDX.
