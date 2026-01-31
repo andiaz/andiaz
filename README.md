@@ -16,7 +16,7 @@ An all-in-one workspace for creating color palettes, typography scales, and desi
 
 ### 👤 [Persona Lab](https://github.com/andiaz/persona-cms)
 
-Create user personas and journey maps, then export them as images. A tool for UX research and documentation.
+A free, privacy-first tool for creating user personas, journey maps, impact maps, sprint boards, and site maps. All data stays in your browser - no account required.
 
 [Try it live →](https://andiaz.github.io/persona-cms)
 
